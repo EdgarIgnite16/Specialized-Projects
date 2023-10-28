@@ -1,4 +1,0 @@
-1. Các hệ thống thông minh - Hồ Cẩm Hà
-2. Recommender System Handbook - Francesco Ricci, Lior Rokach
-3. Hệ khuyến nghị trong dự đoán sở thích người dùng ứng dụng trong kinh doanh thông minh - Lương Ngọc Tú, 
-	Phạm Nguyễn Hoàng Nam, Võ Hà Quang Định, Đặng Thái Thịnh
