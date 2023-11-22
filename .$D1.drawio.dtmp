@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2023-11-22T19:55:13.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="mW53aFKGqJYpH-YWjSz8" version="22.0.3" type="device" pages="2">
+  <diagram name="Page-1" id="DM0ot_OUnRA747NYUWrz">
+    <mxGraphModel dx="989" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UTbXYqxZ5lr0H2FjCwPp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTbXYqxZ5lr0H2FjCwPp-1" target="UTbXYqxZ5lr0H2FjCwPp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="358" y="460" />
+              <mxPoint x="423" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTbXYqxZ5lr0H2FjCwPp-1" value="2.1. Thu thập dữ liệu&lt;br&gt;hành vi người dùng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTbXYqxZ5lr0H2FjCwPp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTbXYqxZ5lr0H2FjCwPp-2" target="UTbXYqxZ5lr0H2FjCwPp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTbXYqxZ5lr0H2FjCwPp-2" value="3. Xây dựng hồ sơ người dùng&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTbXYqxZ5lr0H2FjCwPp-4" value="4. Hiển thị dữ liệu khuyến nghị" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MV7wwL0Utool_QvQQdvv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MV7wwL0Utool_QvQQdvv-1" target="UTbXYqxZ5lr0H2FjCwPp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="488" y="460" />
+              <mxPoint x="423" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV7wwL0Utool_QvQQdvv-1" value="2.2. Thu thập đặc trưng về phim&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="370" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MV7wwL0Utool_QvQQdvv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MV7wwL0Utool_QvQQdvv-5" target="UTbXYqxZ5lr0H2FjCwPp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MV7wwL0Utool_QvQQdvv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MV7wwL0Utool_QvQQdvv-5" target="MV7wwL0Utool_QvQQdvv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MV7wwL0Utool_QvQQdvv-5" value="1. Chọn một bộ&lt;br&gt;phim bất kì" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="260" width="125" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zoK5VzmD4TMbcj8dGwiZ" name="Page-2">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TgYmRuXBp7WgbCO6q1z-1" value="Không xây dựng&lt;br&gt;hồ sơ người dùng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
